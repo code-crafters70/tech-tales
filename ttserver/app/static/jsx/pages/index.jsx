@@ -7,6 +7,7 @@ const Teste = () => {
       <h1>
         Hello, World!
       </h1>
+      <p>Olá!</p>
     </div>
   );
 };
