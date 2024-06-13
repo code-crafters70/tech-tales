@@ -1,5 +1,5 @@
 <div>
-    <h1 style="text-align: center;">Manual de como derrotar a calvície</h1>
+    <h1 style="text-align: center;">Manual para os fronts-ends</h1>
 </div>
 
 Esse arquivo vai guiar os fronts-ends para aonde devo criar e modificar os arquivos que estão relacionados a parte visual do site Tech Tales.
